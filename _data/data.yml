@@ -161,7 +161,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      Listed are a few recent publictions, but my complete publication history can be found at Google Scholar.
+      Listed are a few recent publictions, but my complete publication history can be found at [Google Scholar](https://link-url-here.org).
     papers:
       - title: "Medial frontal cortex gamma-aminobutyric acid concentrations in psychosis spectrum and mood disorders: a meta-analysis of proton magnetic responance spectroscopy studies"
         link: "https://www.sciencedirect.com/science/article/abs/pii/S0006322322015098"

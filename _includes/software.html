@@ -1,0 +1,31 @@
+{% assign software = site.data.data.software %}
+{% if software %}
+<section class="software-section section">
+
+  <h2 class="software-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ software.title }}
+  </h2>
+
+  <div class="skillset">
+
+    {% for software in software.toolset %}
+    <div class="item">
+
+      <h3 class="level-title">{{ software.name }}</h3>
+
+      <div class="level-bar">
+        <div class="level-bar-inner" data-level="{{ software.level }}">
+        </div>
+      </div><!--//level-bar-->
+
+    </div><!--//item-->
+    {% endfor %}
+
+  </div>
+
+</section><!--//software-section-->
+{% endif %}

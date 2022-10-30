@@ -7,14 +7,14 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Molly Simmonite PhD
+    name: Molly Simmonite
     tagline: Research Investigator
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: mollysimmonite@gmail.com
     phone: +1 734 680 3451
-    timezone: America/Cancun Timezone
+    timezone: America/Eastern Timezone
     citizenship:
     website: blog.webjeda.com #do not add http://
     linkedin: mollysimmonite
@@ -39,26 +39,22 @@ sidebar:
           level: Basic
 
 
-    interests:
-      title: Interests
+    skills:
+      title: Skills
       info:
-        - item: Camping
+        - item: Project Management
           link:
 
-        - item: Cooking and baking
+        - item: Oral and Written Communication
           link:
 
-        - item: Traveling
+        - item: Data Analysis and Statistics
           link:
 
 career-profile:
     title: About Me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Academic blah blah blah
       Second paragraph if required.
 education:
     title: Education
@@ -166,9 +162,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Listed are a few recent publictions, but my complete publication history can be found at Google Scholar.
     papers:
       - title: The Art of Computer Programming
         link: "#"
@@ -185,27 +179,24 @@ publications:
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Skills &amp; Proficiency
+software:
+    title: Software
 
     toolset:
-      - name: Python & Django
+      - name: Microsoft Office
+        level: 100%
+
+      - name: RStudio
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Matlab
         level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Python
         level: 95%
 
-      - name: Ruby on Rails
+      - name: SPSS
         level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

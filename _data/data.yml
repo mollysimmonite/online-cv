@@ -163,20 +163,20 @@ publications:
     intro: |
       Listed are a few recent publictions, but my complete publication history can be found at Google Scholar.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Medial frontal cortex gamma-aminobutyric acid concentrations in psychosis spectrum and mood disorders: a meta-analysis of proton magnetic responance spectroscopy studies
+        link: "https://www.sciencedirect.com/science/article/abs/pii/S0006322322015098"
+        authors: Simmonite, M., Steeby, C.J., Taylor, S.F.
+        conference: Biological Psychiatry, in press
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Age-related declines in neural distinctiveness correlate across brain areas and result frmo both decreased reliability and increased confusability"
+        link: "https://www.tandfonline.com/doi/abs/10.1080/13825585.2021.1999383"
+        authors: Simmonite, M., Polk, T.A.
+        conference: "Aging, Neuropsychology, and Cognition 29 (3), 483 - 499, 2022"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Age-related declines in occipital GABA are assocaited with reduced fluid processing ability
+        link: "https://www.sciencedirect.com/science/article/abs/pii/S1076633218304008"
+        authors: Simmonite, M., Carp, J., Foerster, B.R., Ossher, L., Petrou, M., Weissman, D.H.,
+        conference: "Academic Radiology 26 (8) 1053- 1061, 2019"
 
 software:
     title: Software
